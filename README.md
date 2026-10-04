@@ -10,11 +10,6 @@ The project focuses on analyzing:
 * Operational efficiency and transit demand patterns 
 The project also includes forecasting models using Python and Power BI to predict future monthly ridership trends and support data-driven decision-making for urban transport management 
 ---
-## 🎯 Project Objective
-* Clean and structure historical New York MTA transit datasets for accurate reporting
-* Build an interactive Power BI dashboard to visualize key performance indicators (KPIs) and operational metrics
-* Predict future ridership trends using forecasting models to optimize transit schedules and resource allocation
----
 ## 👥 Team Members & Responsibilities
 
 | Team Member | Role |
