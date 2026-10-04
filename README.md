@@ -1,19 +1,19 @@
-# 🚇 MTA Daily Ridership Analysis & Forecasting
-Power BI • Excel • Python • SQL
+  # 🚇 MTA Daily Ridership Analysis & Forecasting
+   Power BI • Excel • Python • SQL
 ---
 ## 📌 Project Description
-This project analyzes the daily ridership patterns of the New York City Metropolitan Transportation Authority (MTA) system to help management understand public transit usage, peak congestion periods, and revenue distribution[span_1](start_span)[span_1](end_span).
+This project analyzes the daily ridership patterns of the New York City Metropolitan Transportation Authority (MTA) system to help management understand public transit usage, peak congestion periods, and revenue distribution .
 The project focuses on analyzing:
-* Daily and monthly ridership trends in New York City[span_2](start_span)[span_2](end_span)
-* Peak travel hours and high-traffic routes[span_3](start_span)[span_3](end_span)
-* Ticket types and fare revenue distribution[span_4](start_span)[span_4](end_span)
-* Operational efficiency and transit demand patterns[span_5](start_span)[span_5](end_span)
-The project also includes forecasting models using Python and Power BI to predict future monthly ridership trends and support data-driven decision-making for urban transport management[span_6](start_span)[span_6](end_span).
+* Daily and monthly ridership trends in New York City 
+* Peak travel hours and high-traffic routes 
+* Ticket types and fare revenue distribution 
+* Operational efficiency and transit demand patterns 
+The project also includes forecasting models using Python and Power BI to predict future monthly ridership trends and support data-driven decision-making for urban transport management 
 ---
 ## 🎯 Project Objective
-* Clean and structure historical New York MTA transit datasets for accurate reporting[span_7](start_span)[span_7](end_span).
-* Build an interactive Power BI dashboard to visualize key performance indicators (KPIs) and operational metrics[span_8](start_span)[span_8](end_span).
-* Predict future ridership trends using forecasting models to optimize transit schedules and resource allocation[span_9](start_span)[span_9](end_span).
+* Clean and structure historical New York MTA transit datasets for accurate reporting
+* Build an interactive Power BI dashboard to visualize key performance indicators (KPIs) and operational metrics
+* Predict future ridership trends using forecasting models to optimize transit schedules and resource allocation
 ---
 ## 👥 Team Members & Responsibilities
 
