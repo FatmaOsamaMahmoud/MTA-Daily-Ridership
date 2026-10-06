@@ -21,7 +21,7 @@ The project also includes forecasting models using Python and Power BI to predic
 | [ Fatma Sayed Mezar Alsayed ] | Dashboard Development & Visual UX Design |
 
 ---
-## 👨‍🏫 Instructor
+## 👩‍🏫 Instructor
 ENG. [ Fatimah Ehab Farouk ]
 ---
 ## 📁 Project Resources
